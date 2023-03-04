@@ -4,11 +4,11 @@ Exspend is a personal finance management app that helps you automate tracking ex
 
 ## Features 
 
-**Expense Tracking:** Keep track of your daily expenses and see where your money is going.   
-**Budgeting:** Set monthly or weekly budgets and get alerts when you're close to reaching your limit.   
-**Saving Goals:** Set financial goals and track your progress towards achieving them.   
-**Reports and Insights:** Get insights into your spending patterns and identify areas where you can save money.   
-**Secure:** Exspend uses bank-grade encryption to keep your financial data safe and secure.
++ **Expense Tracking:** Keep track of your daily expenses and see where your money is going.   
++ **Budgeting:** Set monthly or weekly budgets and get alerts when you're close to reaching your limit.   
++ **Saving Goals:** Set financial goals and track your progress towards achieving them.   
++ **Reports and Insights:** Get insights into your spending patterns and identify areas where you can save money.   
++ **Secure:** Exspend uses bank-grade encryption to keep your financial data safe and secure.
 
 ## Technologies Used 
 
